@@ -1,3 +1,6 @@
+I have used mysql as database and created "ecommerce" database on phymyadmin.
+
+
 Home Page
 
 ![screenshot 160](https://cloud.githubusercontent.com/assets/20251752/26275858/0a8afd3c-3d88-11e7-9116-1a391bf6db33.png)
